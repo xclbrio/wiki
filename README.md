@@ -12,8 +12,8 @@ Excalibur Wiki
 
 ## Active resources:
 
-* Docs: [developers.xclbr.io](developers.xclbr.io)
-* Website: [kovan.xclbr.io](https://kovan.xclbr.io)
-* IPFS Version: [kovan.ipfs.xclbr.io](https://kovan.ipfs.xclbr.io)
+* Docs: [https://developers.xclbr.io](https://developers.xclbr.io)
+* Website: [https://kovan.xclbr.io](https://kovan.xclbr.io)
+* IPFS Version: [https://kovan.ipfs.xclbr.io](https://kovan.ipfs.xclbr.io)
 * Issues: [/wiki/issues](https://github.com/xclbrio/wiki/issues)
 
