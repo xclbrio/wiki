@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/excaliburIPFS.svg?sanitize=true&width=300)
+![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/excaliburAlpha.svg?sanitize=true&width=300)
 
 [![](https://img.shields.io/badge/project-Excalibur__-ef5777.svg?style=popout-square)](https://github.com/xclbrio)
 [![](https://img.shields.io/badge/network-kovan-%23690496.svg?style=popout-square)](https://kovan.etherscan.io/)
