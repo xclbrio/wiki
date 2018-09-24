@@ -8,11 +8,11 @@ Excalibur Wiki
 > This section will be supplemented
 
 <br/><br/>
+[![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/invite.svg?sanitize=true)](https://docs.google.com/forms/d/e/1FAIpQLSdId6Dl12C6A1xH8M-iSAsNwBPvs7a7-sAHP1Hs0xaNEsRZeg/viewform)
+
 ## Active resources:
 
 * Docs: [developers.xclbr.io](developers.xclbr.io)
 * Website: [https://kovan.xclbr.io](https://kovan.xclbr.io)
 * IPFS Version: [https://kovan.ipfs.xclbr.io](https://kovan.ipfs.xclbr.io)
 
-<br/><br/>
-[![](https://raw.githubusercontent.com/xclbrio/styleGuide/master/invite.svg?sanitize=true)](https://docs.google.com/forms/d/e/1FAIpQLSdId6Dl12C6A1xH8M-iSAsNwBPvs7a7-sAHP1Hs0xaNEsRZeg/viewform)
