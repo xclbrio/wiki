@@ -13,7 +13,7 @@ Excalibur Wiki
 ## Active resources:
 
 * Docs: [https://developers.xclbr.io](https://developers.xclbr.io)
-* Website: [https://kovan.xclbr.io](https://kovan.xclbr.io)
-* IPFS Version: [https://kovan.ipfs.xclbr.io](https://kovan.ipfs.xclbr.io)
+* Website: [https://xclbr.io](https://xclbr.io)
+* IPFS Version: [https://ipfs.xclbr.io](https://ipfs.xclbr.io)
 * Issues: [/wiki/issues](https://github.com/xclbrio/wiki/issues)
 
